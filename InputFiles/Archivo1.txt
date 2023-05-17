@@ -1,0 +1,3 @@
+Hadoop es un marco de software de código abierto para almacenamiento y procesamiento distribuido de grandes conjuntos de datos en clústeres de hardware básico.
+Apache Hadoop es un proyecto de código abierto que proporciona un marco de software para almacenamiento y procesamiento distribuido de conjuntos de datos.
+Hadoop se utiliza para almacenar y procesar datos en clústeres de servidores básicos que se ejecutan en paralelo.

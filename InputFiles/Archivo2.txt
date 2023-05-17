@@ -1,0 +1,2 @@
+Apache Spark es un marco de procesamiento de datos distribuidos de código abierto diseñado para proporcionar una interfaz fácil de usar y rápida para el procesamiento de datos en clúster.
+Spark es una plataforma de cómputo en clúster que proporciona una interfaz para programación de todo el conjunto de clústeres con tolerancia a fallos y soporte para procesamiento de datos en paralelo.

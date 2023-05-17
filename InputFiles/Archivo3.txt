@@ -1,0 +1,2 @@
+Big Data es un término que se refiere a conjuntos de datos extremadamente grandes que son difíciles de analizar, procesar y almacenar utilizando tecnologías tradicionales.
+Big Data es un término popular que se usa para describir el crecimiento exponencial y la disponibilidad de datos estructurados y no estructurados.
