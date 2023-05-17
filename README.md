@@ -22,4 +22,4 @@ Este proyecto es parte de una investigación en la que se analizan las diferenci
 
 ## Licencia
 
-Este proyecto está licenciado bajo los términos de la licencia [MIT](LICENSE).
+Este proyecto está licenciado bajo los términos de la licencia [GNU General Public License v3.0](LICENSE).
